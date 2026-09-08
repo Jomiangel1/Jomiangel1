@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ajagbe oluwajomiloju Rachael-Anne
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 👀 I’m interested in AI / ML Engineering
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on different projects to aid my learning
 - 📫 How to reach me; Email: oluwajomilojuajagbe@gmail.com
 
